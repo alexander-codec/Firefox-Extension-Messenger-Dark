@@ -82,6 +82,7 @@ div._4-i2 {
 input, select, textarea {
   background-color: var(--color-background) !important;
   color: var(--color-text) !important;
+  filter: none;
 }
 
 select {
