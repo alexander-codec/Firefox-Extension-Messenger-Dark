@@ -301,10 +301,6 @@ div._5a8u {
   color: #a8a8a8 !important;
 }
 
-.gecko.mac ._4jy0 {
-  background-color: transparent !important;
-}
-
 ._6ckd {
   color: var(--color-text) !important;
 }
@@ -611,4 +607,10 @@ div._5a8u {
 
 ._374b, ._2c9i ._4ebz {
   border-color: var(--color-bar);
+}
+._z4_ {
+    overflow: hidden !important;
+}
+._53ik ._558b + ._53io, ._53il ._558b + ._53io, ._hw2 ._53io, ._1r_9 ._53ik ._53io {
+    background-image: inherit !important;
 }
