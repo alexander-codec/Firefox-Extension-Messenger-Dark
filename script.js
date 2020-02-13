@@ -1,3 +1,7 @@
 // mudar imagem da tela inicial | change image home
-document.querySelector("._6b6a").src="https://i.imgur.com/kVoQ7nW.jpg";
-window.onload = function() { document.querySelector("._6b6a").style.display = "block"; }
+setTimeout(function() {
+    document.querySelector("._6b6a._3ftg").src="https://raw.githubusercontent.com/johnendz/Firefox-Extension-Messenger-Dark/master/home.png";
+}, 1000);
+setTimeout(function() {
+    document.querySelector("._6b6a._3ftg").style.display = "block";
+}, 2000);

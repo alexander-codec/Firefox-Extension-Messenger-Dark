@@ -50,6 +50,10 @@ body {
   background-color: var(--color-background) !important;
 }
 
+body > div {
+  background-color: var(--color-background) !important;
+}
+
 ._1-l6 {
   background-color: var(--color-background) !important;
 }
