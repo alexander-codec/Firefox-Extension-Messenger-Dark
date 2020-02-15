@@ -1,9 +1,17 @@
 :root {
-  --color-background: #222222;
-  --color-text: #efefef;
-  --color-bar: #1a1a1a;
-  --color-textdark: #777474;
-  --color-button: #404040;
+    --color-background: #222222;
+    --color-background-shadow: #4a4a4a;
+    --color-dark: #1F232A;
+    --color-text: #efefef;
+    --color-bar: #1a1a1a;
+    --color-textdark: #777474;
+    --color-button: #404040;
+    --color-icon: #E1E1E1;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-dark) var(--color-background-shadow);
 }
 
 ._4sp8, ._5f0v {
@@ -21,7 +29,9 @@ body, h2, ._ih3, ._1htf, ._1ht3, ._1tqi, ._1ht7, ._3szq, ._4_j5, ._1n-e, ._1ht6,
 ._1ht2 {
   background-color: rgba(0, 0, 0, 0.1) !important;
 }
-
+._5r8h:hover, ._2_gk:hover, ._1gy-:hover, ._517h, ._59pe:focus, ._59pe:hover {
+    background-color: var(--color-background-shadow) !important;
+}
 ._7q1j>div {
   border-color: var(--color-background) !important;
 }
@@ -34,15 +44,15 @@ body, h2, ._ih3, ._1htf, ._1ht3, ._1tqi, ._1ht7, ._3szq, ._4_j5, ._1n-e, ._1ht6,
   background-color: var(--color-background) !important;
 }
 
-._7kpk {
+._7kpk, ._4_j4 .chatAttachmentShelf {
   background-color: var(--color-bar) !important;
 }
 
-._4rv3 {
+._4rv3, ._4_j4 .chatAttachmentShelf {
   border-top: 1px solid var(--color-bar) !important;
 }
 
-._1p1v {
+._1p1v, ._517h, ._59pe:focus, ._59pe:hover {
   color: var(--color-text) !important;
 }
 
@@ -150,7 +160,7 @@ div._5a8u {
   border-color: inherit!important;
 }
 
-._6aup ._2qcn {
+._6aup ._2qcn, ._4-u8 {
   background-color: var(--color-bar) !important;
   color: var(--color-text) !important;
 }
@@ -159,7 +169,7 @@ div._5a8u {
   color: var(--color-text) !important;
 }
 
-._6aup ._6g2n {
+._6aup ._6g2n, ._5r5l {
   color: var(--color-text) !important;
 }
 
@@ -167,7 +177,7 @@ div._5a8u {
   background-color: var(--color-background) !important;
 }
 
-._2f5n ._29ey {
+._2f5n ._29ey, ._5rai {
   color: var(--color-text) !important;
 }
 
@@ -180,7 +190,7 @@ div._5a8u {
   z-index: 999;
 }
 
-._8mgu {
+._8mgu, ._5r5i, ._5r5f {
   background: var(--color-background) !important;
 }
 
@@ -617,4 +627,7 @@ div._5a8u {
 }
 ._53ik ._558b + ._53io, ._53il ._558b + ._53io, ._hw2 ._53io, ._1r_9 ._53ik ._53io {
     background-image: inherit !important;
+}
+._4dfu {
+    background: inherit !important;
 }
