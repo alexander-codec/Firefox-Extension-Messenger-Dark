@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Messenger logo" src="https://i.imgur.com/ZQ45UYZ.jpg" width="250px" />
+    <img alt="Messenger logo" src="https://i.imgur.com/ZQ45UYZ.jpg" width="400px" />
 </h1>
 
 <h4 align="center">
