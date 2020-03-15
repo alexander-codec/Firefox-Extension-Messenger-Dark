@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Captura de Tela" width="1024" src="https://i.imgur.com/LjCREgn.png">
+  <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/233/233892.png?modified=1584282597">
 </p>
 
 ## :rocket: Tecnologias
