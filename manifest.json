@@ -1,15 +1,14 @@
 {
-  "description": "Ativar modo escuro no Messenger",
+  "description": "Ativar tema escuro no Messenger",
   "manifest_version": 2,
   "name": "Messenger Dark",
   "author": "Johnendz",
-  "version": "1.8",
+  "version": "2.0",
 
   "content_scripts": [
     {
 	  "matches": ["*://*.messenger.com/*"],
       "css":["style.css"],
-      "js": ["script.js"],
       "run_at": "document_start"
     }
   ],
