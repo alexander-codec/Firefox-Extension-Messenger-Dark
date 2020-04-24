@@ -2,9 +2,6 @@
     <img alt="Messenger logo" src="https://i.imgur.com/ZQ45UYZ.jpg" width="400px" />
 </h1>
 
-<h4 align="center">
-  ⚡ Messenger Dark (Tema Escuro)
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/amo/users/messenger-tema-escuro?color=blue">
     
@@ -24,9 +21,9 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://addons.mozilla.org/pt-BR/firefox/addon/messenger-tema-escuro">Firefox</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://chrome.google.com/webstore/detail/messenger-dark-tema-escur/nnmagfigiojfaljnbofohngmipedogpl">Chrome</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://microsoftedge.microsoft.com/addons/detail/nkdjmafifmacpigphcoljbmlfmnffinp">Edge</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -34,25 +31,3 @@
 <p align="center">
   <img alt="Captura de Tela" width="1024" src="https://addons.cdn.mozilla.net/user-media/previews/full/233/233892.png?modified=1584282597">
 </p>
-
-## :rocket: Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [Content scripts](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts)
-- [Match patterns](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)
-- [Modify a web page](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Modify_a_web_page)
-- [Native manifests](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_manifests)
-
-## 💻 Projeto
-
-O Messenger Dark é um projeto para deixar a interface da aplicação web com aparência escura.
-
-## 🤔 Como contribuir
-
-- Faça um issue nesse repositório;
-- Informa o bug e se possivel um link com a captura do erro;
-- Aguarde até ser respondido no issue;
-- Assim que foi identificado e corrigido seu issue será fechado e dado como concluido.
-
-Depois que o issue for concluido, ele será enviado para produção e aparecerá no github corrigido.
