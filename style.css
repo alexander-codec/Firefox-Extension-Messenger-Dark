@@ -21,15 +21,15 @@
     background: var(--color-background) !important;
 }
 
-._5r8h:hover, ._2_gk:hover, ._1gy-:hover, ._517h, ._59pe:focus, ._59pe:hover {
+._5r8h:hover, ._2_gk:hover, ._1gy-:hover, ._517h, ._59pe:focus, ._59pe:hover, ._6s-6 {
     background-color: var(--color-background-shadow) !important;
 }
 
-._7kpk, ._4_j4 .chatAttachmentShelf, ._6aup ._2qcn, ._4-u8, ._3v_p ._43di, ._3v_o ._43di, ._hh7, ._3058._ui9._hh7, ._2azv, .__6j, ._3b4t, ._4mnq, ._2poz._52mr, .chatAttachmentShelf, ._324d, ._7301._hh7._hh7._6ybn, ._3rh0, ._53ij, ._5r8a._5r8b, ._3z53, ._4lh2, ._4lh7, ._30h0, ._682j, ._29_7 ._3058._s1-._6e6n, ._30e7 ._5j5f, ._58al, ._58al::placeholder, ._225b, ._54ng, ._58-2, ._6ckg {
+._7kpk, ._4_j4 .chatAttachmentShelf, ._6aup ._2qcn, ._4-u8, ._3v_p ._43di, ._3v_o ._43di, ._hh7, ._3058._ui9._hh7, ._2azv, .__6j, ._3b4t, ._4mnq, ._2poz._52mr, .chatAttachmentShelf, ._324d, ._7301._hh7._hh7._6ybn, ._3rh0, ._53ij, ._5r8a._5r8b, ._3z53, ._4lh2, ._4lh7, ._30h0, ._682j, ._29_7 ._3058._s1-._6e6n, ._30e7 ._5j5f, ._58al, ._58al::placeholder, ._225b, ._54ng, ._58-2, ._6ckg, ._1py_._1rb6 , ._1py_._1rb6 .layerCancel {
     background-color: var(--color-background-dark) !important;
 }
 
-body, h2, ._ih3, ._1htf, ._1ht3, ._1tqi, ._1ht7, ._3szq, ._4_j5, ._1n-e, ._1ht6, ._2v6o, ._1lj0, ._3eus, ._4rv4, ._225b, ._364g, ._1enh, ._2y8z, ._286b, ._682i, ._2d0c, ._2p_d, ._79da, ._2jnv, ._4rpj, ._5qsj, ._4k7a, ._67tu, ._67tw, ._7ht_, ._6-xo, ._5rh4, ._7492, ._6ybk>a, ._4eb->ul>li>div>label, ._87b_, ._2ogt._6yb-, a:not(._ih-), ._74ku, ._8slc, ._8b0j, ._1p1v, ._517h, ._59pe:focus, ._59pe:hover, ._6b6b, ._4-i0 ._52c9, ._uvt, ._5hy4, #bug_report_textarea::placeholder, ._6aup ._2qcn, ._4-u8, ._2qcr .uiInputLabelLabel, ._6aup ._6g2n, ._5r5l, ._2f5n ._29ey, ._5rai, ._8nzv ._8nz7, ._8nz-, #messenger-privacy-keeping-you-safe ._8nne ._2kz1, ._8v9m ._8vbg, ._43di::placeholder, ._43di:-moz-placeholder, ._3v_p ._43di, ._3v_o ._43di, ._6ckd, ._2b72, ._43za, ._hh7, ._3058._ui9._hh7, ._3oh-, ._2azv, .__6j, ._3b4u, ._1mq-, ._1mr_, .__6k, .__6l, .__6m, .chatAttachmentShelf, ._324d, ._3rh0, ._53ij, ._5r8a._5r8b, ._3z53, ._4lh2, ._4lh7, ._30h0, ._682j, ._5jn1, ._38a0, ._aou, ._4kf5, ._4ik6, ._1uwz, ._58al, ._58al::placeholder, ._3q34, ._3q35, ._7u0a, ._3xcx, ._4g0h, ._7s4e, ._hh7._6ybn._2f5r, ._2poz._52mr, ._1sk6, ._1suk, ._54nh, ._4eby, ._59s7, ._374c, ._19jt, ._6cs7, ._4ng2, ._6ct8._6y58, ._58-2, ._29_7 ._6e6n ._pye, ._nd_ ._hh7 ._pye, ._80cm, input, select, textarea {
+body, h2, ._ih3, ._1htf, ._1ht3, ._1tqi, ._1ht7, ._3szq, ._4_j5, ._1n-e, ._1ht6, ._2v6o, ._1lj0, ._3eus, ._4rv4, ._225b, ._364g, ._1enh, ._2y8z, ._286b, ._682i, ._2d0c, ._2p_d, ._79da, ._2jnv, ._4rpj, ._5qsj, ._4k7a, ._67tu, ._67tw, ._7ht_, ._6-xo, ._5rh4, ._7492, ._6ybk>a, ._4eb->ul>li>div>label, ._87b_, ._2ogt._6yb-, a:not(._ih-), ._74ku, ._8slc, ._8b0j, ._1p1v, ._517h, ._59pe:focus, ._59pe:hover, ._6b6b, ._4-i0 ._52c9, ._uvt, ._5hy4, #bug_report_textarea::placeholder, ._6aup ._2qcn, ._4-u8, ._2qcr .uiInputLabelLabel, ._6aup ._6g2n, ._5r5l, ._2f5n ._29ey, ._5rai, ._8nzv ._8nz7, ._8nz-, #messenger-privacy-keeping-you-safe ._8nne ._2kz1, ._8v9m ._8vbg, ._43di::placeholder, ._43di:-moz-placeholder, ._3v_p ._43di, ._3v_o ._43di, ._6ckd, ._2b72, ._43za, ._hh7, ._3058._ui9._hh7, ._3oh-, ._2azv, .__6j, ._3b4u, ._1mq-, ._1mr_, .__6k, .__6l, .__6m, .chatAttachmentShelf, ._324d, ._3rh0, ._53ij, ._5r8a._5r8b, ._3z53, ._4lh2, ._4lh7, ._30h0, ._682j, ._5jn1, ._38a0, ._aou, ._4kf5, ._4ik6, ._1uwz, ._58al, ._58al::placeholder, ._3q34, ._3q35, ._7u0a, ._3xcx, ._4g0h, ._7s4e, ._hh7._6ybn._2f5r, ._2poz._52mr, ._1sk6, ._1suk, ._54nh, ._4eby, ._59s7, ._374c, ._19jt, ._6cs7, ._4ng2, ._6ct8._6y58, ._58-2, ._29_7 ._6e6n ._pye, ._nd_ ._hh7 ._pye, ._80cm, input, select, textarea, ._1py_._1rb6 *, ._2iev {
     color: var(--color-text) !important;
 }
 
@@ -238,4 +238,12 @@ select::-ms-expand {
 
 ._4dfu {
     background: inherit !important;
+}
+
+._6s-6._6s-7, ._63yy ._63yz._63yz {
+    background: #3578e5  !important;
+}
+
+._2xaj + ._2xaj, ._4iyh._2pia._2pi4 {
+    border-top: inherit !important;
 }
