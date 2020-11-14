@@ -3,12 +3,12 @@
   "manifest_version": 2,
   "name": "Messenger Dark (Tema Escuro)",
   "author": "Johnendz",
-  "version": "3.1",
+  "version": "3.2",
 
   "content_scripts": [
     {
 	  "matches": ["*://*.messenger.com/*"],
-      "css":["style.css"],
+      "css":["style.minified.css"],
       "run_at": "document_start"
     }
   ],

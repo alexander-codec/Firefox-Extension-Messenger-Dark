@@ -42,10 +42,10 @@ body, h2, ._ih3, ._1htf, ._1ht3, ._1tqi, ._1ht7, ._3szq, ._4_j5, ._1n-e, ._1ht6,
 }
 
 ._aou, ._4kf5, ._6ybv, ._6y56, ._6ybz, ._7hu0, ._7hu1, ._7hty, ._2i-c ._54ne ._54nh, ._2i-c ._54ne ._54nc, ._2i-c ._54ne, ._54ne, ._4rlt {
-  background-color: var(--color-button);
+	background-color: var(--color-button);
 }
 
-._1t2u, ._673w, ._4_j5, ._4rv3, ._2azv, .__6j, ._4mnq, .chatAttachmentShelf, ._324d, ._29_7 ._3058._s1-._6e6n, ._30e7 ._5j5f, ._374b, ._2c9i ._4ebz {
+._1t2u, ._673w, ._4_j5, ._4rv3, ._2azv, .__6j, ._4mnq, .chatAttachmentShelf, ._324d, ._29_7 ._3058._s1-._6e6n, ._30e7 ._5j5f, ._2c9i ._4ebz {
     border-color: var(--color-background-dark);
 }
 
@@ -246,4 +246,14 @@ select::-ms-expand {
 
 ._2xaj + ._2xaj, ._4iyh._2pia._2pi4 {
     border-top: inherit !important;
+}
+
+._374b {
+    border-bottom: inherit !important;
+}
+._225b._6ybl {
+    background-color: transparent !important;
+}
+._5l37:active, ._1k1p {
+    background-color: var(--color-background-dark) !important;
 }
